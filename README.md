@@ -1,0 +1,2 @@
+# Bitcoin-trader
+About Bitcoin
